@@ -1,2 +1,2 @@
 # INST327-Normalization-Code
-Normalizes dataset into database by creating Excel files
+Normalizes dataset into database using Jupyter Notebook by creating Excel files
